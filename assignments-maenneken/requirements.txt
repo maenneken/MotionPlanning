@@ -1,0 +1,6 @@
+pyyaml >= 6.0.0
+numpy < 2
+meshcat >= 0.3.2
+python-fcl >= 0.7
+cvxpy
+matplotlib
